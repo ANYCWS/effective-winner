@@ -1,2 +1,2 @@
 # effective-winner
-Sign up! And win the truth
+Sign up! And win the truth.
